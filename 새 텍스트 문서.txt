@@ -4,4 +4,11 @@
 추가된 메세지이므로 확인 요망
 코드블라블라
 git init
-git remote add origin https://github.com/memoming/memoming_gitTest
+git remote add origin https://github.com/memoming/memoming_gitTest 
+
+#추가된 메세지
+
+git status
+git add .
+git commit -m " second commit"
+git push origin master

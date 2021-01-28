@@ -1,2 +1,7 @@
 테스트 내용
 깃허브 pull push
+
+추가된 메세지이므로 확인 요망
+코드블라블라
+git init
+git remote add origin https://github.com/memoming/memoming_gitTest
